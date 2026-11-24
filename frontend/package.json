@@ -48,7 +48,7 @@
 		"class-variance-authority": "^0.7.1",
 		"clsx": "^2.1.1",
 		"groq-sdk": "^0.3.3",
-		"i18next": "^23.16.8",
+		"i18next": "^26.3.4",
 		"i18next-browser-languagedetector": "^8.0.4",
 		"jotai": "^2.12.3",
 		"jotai-devtools": "^0.10.1",
